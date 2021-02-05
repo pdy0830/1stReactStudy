@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-actions": "^2.6.5",
+    "redux-saga": "^1.1.3"
+  }
+}
